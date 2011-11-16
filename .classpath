@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="doc/|doc/javadoc/|examples/|examples/data/|src/|src/pellet/|lib/|licensing/" kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/aterm-java-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/antlr/antlr-runtime-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="lib/jena/arq-2.8.7.jar"/>
+	<classpathentry kind="lib" path="lib/jena/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/jena/iri-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/jena/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/jena/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/jena/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/jena/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jena/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/jena/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/jena/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jena/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/jena/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/jgrapht/jgrapht-jdk1.5.jar"/>
+	<classpathentry kind="lib" path="lib/xsdlib/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="lib/xsdlib/xsdlib.jar"/>
+	<classpathentry kind="lib" path="lib/owlapi/owlapi-bin.jar"/>
+	<classpathentry kind="lib" path="lib/owlapiv3/owlapi-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
